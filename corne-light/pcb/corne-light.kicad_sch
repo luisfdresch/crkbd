@@ -1143,6 +1143,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 49.53) (xy 186.69 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1def2fca-101d-4b01-8adb-77ad3fcf661c")
+	)
+	(wire
+		(pts
 			(xy 149.86 137.16) (xy 149.86 144.78)
 		)
 		(stroke
@@ -1290,6 +1300,16 @@
 			(type default)
 		)
 		(uuid "43d38f0b-0ec3-48b4-82b5-88d9d69e1d90")
+	)
+	(wire
+		(pts
+			(xy 186.69 49.53) (xy 186.69 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43d4f233-b0da-45e5-bb48-f1bc81a1908c")
 	)
 	(wire
 		(pts
@@ -1450,6 +1470,16 @@
 			(type default)
 		)
 		(uuid "6f71a14d-9199-4235-ba04-3d377eea5af7")
+	)
+	(wire
+		(pts
+			(xy 186.69 52.07) (xy 184.15 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fe8a5c4-e319-4e44-9564-32ee5e2384a3")
 	)
 	(wire
 		(pts
@@ -2955,7 +2985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 157.48 106.68 0)
 			(effects
 				(font
@@ -3741,7 +3771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 157.48 121.92 0)
 			(effects
 				(font
